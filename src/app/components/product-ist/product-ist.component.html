@@ -1,0 +1,4 @@
+<h1>Liste des produits</h1>
+<p *ngFor="let  p of products ">
+    {{p.name}} : {{p.unitPrice | currency:'USD'}}
+</p>
