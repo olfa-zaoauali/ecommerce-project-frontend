@@ -11,9 +11,8 @@ change border to 10px */
     -moz-border-radius:3px;
     border-radius:0;
     background:#205b8d
+    
 }
-
-
 /*
 copy from style.css -> .form-header
 rename as .login-status-header
